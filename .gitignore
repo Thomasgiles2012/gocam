@@ -1,0 +1,37 @@
+# Default-deny: only the public binary package belongs in a distribution repository.
+*
+!/.gitignore
+!/Gocam.exe
+!/First-Time Setup.cmd
+!/Remove Windows Setup.cmd
+!/README.md
+!/github-page-assets/
+!/github-page-assets/preferences.jpg
+!/github-page-assets/preview-illustrative.png
+!/LICENSE.txt
+!/app/
+!/app/*.dll
+!/app/*.exe
+!/app/*.json
+!/app/*.dat
+!/setup/
+!/setup/Setup-Camera.ps1
+!/setup/SetupPolicy.ps1
+!/setup/Install-Camera.ps1
+!/setup/Remove-CameraComponent.ps1
+!/setup/Remove Windows Setup.cmd
+!/setup/bundle-files.json
+!/settings/
+!/settings/.gitkeep
+!/licenses/
+!/licenses/README.md
+!/licenses/dotnet-LICENSE.txt
+!/licenses/dotnet-ThirdPartyNotices.txt
+!/licenses/ffmpeg/
+!/licenses/ffmpeg/ffmpeg-7.1.5.tar.xz
+!/licenses/ffmpeg/ffmpeg-7.1.5.tar.xz.asc
+!/licenses/ffmpeg/ffmpeg-devel.asc
+!/licenses/ffmpeg/COPYING.LGPLv2.1
+!/licenses/ffmpeg/LICENSE.md
+!/licenses/ffmpeg/BUILD.txt
+!/licenses/ffmpeg/README.md

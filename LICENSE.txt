@@ -1,0 +1,14 @@
+Gocam — Personal-use application license
+Licensor: TG
+
+TG grants you a non-exclusive license to install and run the original application binaries for personal, non-commercial use only. Commercial use, sublicensing and redistribution of TG's original application require separate written permission from TG. Rights required by applicable law or the third-party terms below are not restricted.
+
+The original application is proprietary, not open source. No license to its source code is granted. All rights not expressly granted are reserved. Providing readable setup scripts does not grant an open-source license to TG's original code. There is no blanket prohibition of reverse engineering.
+
+This software uses libraries from the FFmpeg project under LGPL version 2.1 or later. TG does not own FFmpeg or the bundled .NET runtime. Their respective copyright holders and license terms are identified in licenses/. Corresponding FFmpeg source and build instructions are included in licenses/ffmpeg/.
+
+Third-party components remain subject to their own licenses. Personal-use and redistribution restrictions above apply only to TG's original application, not to those components. You may modify your copy for your own use and reverse-engineer it to debug modifications to LGPL-covered libraries as required by the LGPL. Compatible modified FFmpeg libraries may replace the bundled DLLs; this application does not require their original hashes at runtime. No term here overrides rights granted under third-party licenses or applicable law.
+
+To the extent permitted by applicable law, the original application is provided AS IS, without warranties, and TG is not liable for loss or damage resulting from its use. Mandatory statutory rights are not excluded.
+
+These terms are not a legal opinion or a determination of patent or other third-party rights. Permission to use the application does not include permission to redistribute TG's original application without TG's separate written permission.
